@@ -1,0 +1,30 @@
+@if (!results()) {
+  <table>
+  <p>enter values</p>
+  </table>
+} @else {
+  <table>
+    <thead>
+    <tr>
+      <th>Year</th>
+      <th>investment value</th>
+      <th>investment (year)</th>
+      <th>total interest</th>
+      <th>invested capital</th>
+    </tr>
+    </thead>
+    <tbody>
+      @for (r of results();track r.year){
+        <tr>
+          <td> {{ r.year}} </td>
+          <td> {{ r.valueEndOfYear | currency}} </td>
+          <td> {{ r.interest | currency}} </td>
+          <td> {{ r.totalInterest | currency}} </td>
+          <td> {{ r.totalAmountInvested | currency}} </td>
+        </tr>
+      }
+
+    </tbody>
+  </table>
+}
+

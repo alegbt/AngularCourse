@@ -1,0 +1,20 @@
+<app-header />
+
+<main>
+  <div id="dashboard">
+    <app-dashboard-item [image]="{src: 'status.png', alt: 'a signal symbol'}" title="A signal symbol">
+
+      <app-server-status />
+    </app-dashboard-item>
+
+
+
+    <app-dashboard-item [image]="{src: 'globe.png', alt: 'a globe'}" title="A globe">
+      <app-traffic />
+    </app-dashboard-item>
+
+    <app-dashboard-item [image]="{src: 'list.png', alt: 'a list of items'}" title="suport tickets">
+      <app-tickets />
+      </app-dashboard-item>
+  </div>
+</main>
