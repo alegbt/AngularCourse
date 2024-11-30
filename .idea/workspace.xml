@@ -4,66 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd439e1c-7659-4295-94cf-f888bd66a274" name="Changes" comment="2">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/01-starting-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/dummy-users.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/header/header.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/header/header.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/header/header.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/shared/card/card.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/shared/card/card.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/shared/card/card.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/shared/shared.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/new-task/new-task.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/new-task/new-task.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/new-task/new-task.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/new-task/new-task.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/task/task.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/task/task.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/task/task.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/task/task.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/task/task.model.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/tasks.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/tasks.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/tasks.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/tasks.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/tasks.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/tasks/tasks.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/user/user.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/user/user.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/user/user.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/app/user/user.model.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/angular-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/task-management-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/users/user-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/users/user-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/users/user-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/users/user-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/users/user-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/assets/users/user-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-project/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-    </list>
+    <list default="true" id="dd439e1c-7659-4295-94cf-f888bd66a274" name="Changes" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +19,9 @@
     &quot;assignee&quot;: &quot;alegbt&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d5ef2cc3-913c-424e-8edf-282a9fa2cd7f" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/alegbt/Angular-01-starting-project.git&quot;,
@@ -105,7 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -127,7 +71,7 @@
       <workItem from="1732977586478" duration="581000" />
       <workItem from="1732978173434" duration="38000" />
       <workItem from="1732978246088" duration="235000" />
-      <workItem from="1733007443341" duration="495000" />
+      <workItem from="1733007443341" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <option name="closed" value="true" />
@@ -137,7 +81,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732978049889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <option name="closed" value="true" />
+      <created>1733008140146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733008140146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2">
+      <option name="closed" value="true" />
+      <created>1733008154566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733008154566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
