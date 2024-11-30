@@ -1,0 +1,12 @@
+<div>
+  <ng-content></ng-content>
+</div>
+
+<!--
+ng content si usa come wrapper per una classe in cui istanzi <app-card>. in card.component.css ci sono stili che si
+vogliono utilizzare in + components. (x esempio in user.component.html) e mettendo ng content fai in modo che in user.component
+puoi utilizzare <app-card> *elementi da visualizzare in user.component.html* </app-card>
+in questo modo gli elementi da visualizzare di user vengono visualizzati anche se dentro app-card
+ma gli stili di app-card vengono applicati su di essi
+
+ -->
